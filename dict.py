@@ -81,7 +81,7 @@ quotes = [
             'id' : 12,
             'date' : "12.01",
             'author': 'Swami Vivekananda',
-            'phrase': 'Conscious faith is freedom. Emotional faith is slavery. Mechanical faith is foolishness.',
+            'phrase': 'In a conflict between the heart and the brain, follow your heart.',
             'lifetime': "12.01.1863 - 04.07.1902"
         },
         {
