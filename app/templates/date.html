@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h1>Date: {{ date.id }}</h1>
+    <hr>
+    {% for date in quotes %}
+    <p>
+    {{ quotes.date}} is dedicated to {{quotes.author }} , who once said: <b>{{ post.phrase }}</b>
+    </p>
+    {% endfor %}
+{% endblock %}
