@@ -35,8 +35,3 @@ def add_quote():
         return quote, 201
     return {"error": "Request must be JSON"}, 415
 
-@app.route('/link/<id>', methods=["GET"])
-def get_link_by_id(id):
-    for html_link in quotes:
-        if html_link["id"] == int(id):
-            return quotes [html_link]
