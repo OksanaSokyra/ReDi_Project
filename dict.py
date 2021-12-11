@@ -5,216 +5,368 @@ quotes = [
             'author': 'Charles Renouvier',
             'phrase': 'Free will is the sustaining of particular thought because we choose to, when we might have other thoughts.',
             'lifetime': "01.01.1815-01.09.1903",
-            'html_link': "file:///C:/Users/OksanaS/OneDrive/Desktop/ReDi/app/templates/1.html"
+            'description' : 'French neocritical idealist philosopher who rejected all necessary connection between universal laws and morality.',
+            'image' : 'https://upload.wikimedia.org/wikipedia/commons/7/72/Charles_Renouvier.jpg',
+            'link1' : 'https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/renouvier-charles-bernard-1815-1903',
+            'link2' : 'https://www.britannica.com/biography/Charles-Bernard-Renouvier',
+            'link3' : 'https://www.oxfordreference.com/view/10.1093/oi/authority.20110803100414125'
         },
         {
             'id' : 2,
             'date' : "02.01",
             'author': 'Daisaku Ikeda',
             'phrase': 'Before comparing yourself with others, win the battle with yourself. Strive to be better today than yesterday, and better tomorrow than today.',
-            'lifetime': "*02.01.1928"
+            'lifetime': "*02.01.1928",
+            'description' : 'A Japanese Buddhist philosopher, educator, author, and nuclear disarmament advocate.',
+            'image' : 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/DaisakuIkedaTokyoMay2010.jpg/220px-DaisakuIkedaTokyoMay2010.jpg',
+            'link1' : 'https://www.daisakuikeda.org/',
+            'link2' : 'https://www.instagram.com/daisakuikeda.official/?hl=en',
+            'link3' : 'https://twitter.com/daisakuikeda_of?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor',
+            'link4' : 'https://www.oxfordreference.com/view/10.1093/oi/authority.20110803095957380'
         },
         {
             'id' : 3,
             'date' : "03.01",
             'author': 'Marcus Tullius Cicero',
             'phrase': 'I have always been of the opinion that unpopularity earned by doing what is right is not unpopularity at all, but glory.',
-            'lifetime': "03.01.106 BC - 07.12.43 BC"
+            'lifetime': "03.01.106 BC - 07.12.43 BC",
+            'description' : 'A Roman statesman, lawyer, scholar, philosopher and Academic Skeptic.',
+            'image' : 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg/230px-Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg',
+            'link1' : 'https://www.history.com/topics/ancient-history/marcus-tullius-cicero',
+            'link2' : 'https://www.britannica.com/biography/Cicero">britannica.com',
+            'link3' : 'https://iep.utm.edu/cicero/'
         },
         {
             'id' : 4,
             'date' : "04.01",
             'author': 'Erwin Schrödinger',
             'phrase': 'The present is the only things that has no end.',
-            'lifetime': "12.08.1887 - 04.01.1961"
+            'lifetime': "12.08.1887 - 04.01.1961",
+            'description' : ' A Nobel Prize-winning Austrian-Irish physicist and philosopher; the most complex figure in twentieth-century discussions of quantum mechanical uncertainty, ontological chance, indeterminism, and the statistical interpretation of quantum mechanics.',
+            'image' : 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Erwin_Schr%C3%B6dinger_%281933%29.jpg/220px-Erwin_Schr%C3%B6dinger_%281933%29.jpg',
+            'link1' : 'https://www.nobelprize.org/prizes/physics/1933/schrodinger/biographical/',
+            'link2' : 'https://www.britannica.com/biography/Erwin-Schrodinger',
+            'link3' : 'https://ysjournal.com/schrodinger-equation-cat-and-philosophy//'
         },
         {
             'id' : 5,
             'date' : "05.01",
             'author': 'Umberto Eco',
             'phrase': 'Each of us is sometimes a cretin, a fool, a moron, or a lunatic. A normal person is just a reasonable mix of these components, these four ideal types.',
-            'lifetime': "05.01.1932 - 19.02.2016"
+            'lifetime': "05.01.1932 - 19.02.2016",
+            'description' : 'An Italian medievalist, philosopher, semiotician, cultural critic, political and social commentator, and novelist.',
+            'image' : 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Italiaanse_schrijver_Umberto_Eco%2C_portret.jpg/220px-Italiaanse_schrijver_Umberto_Eco%2C_portret.jpg',
+            'link1' : 'https://www.theguardian.com/books/2016/feb/20/umberto-eco-obituary',
+            'link2' : 'https://www.britannica.com/biography/Umberto-Eco',
+            'link3' : 'https://www.oxfordreference.com/view/10.1093/oi/authority.20110803095740893'
         },
         {
             'id' : 6,
             'date' : "06.01",
             'author': 'Samuel Alexander',
             'phrase': 'An expectation is a future object, recognised as belonging to me.',
-            'lifetime': "06.01.1859 - 13.09.1938"
+            'lifetime': "06.01.1859 - 13.09.1938",
+            'description' : 'An Australian-born British philosopher, the first Jewish fellow of an Oxbridge college.',
+            'image' : 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/SamuelAlexander.gif/220px-SamuelAlexander.gif',
+            'link1' : 'https://plato.stanford.edu/entries/alexander/',
+            'link2' : 'https://www.britannica.com/biography/Samuel-Alexander',
+            'link3' : 'https://iep.utm.edu/alex-sam/'
         },
         {
             'id' : 7,
             'date' : "07.01",
             'author': 'Paul Deussen',
             'phrase': 'Reading through an entire book often does not yield as much gain as thinking carefully about a single sentence of it.',
-            'lifetime': "07.01.1845 - 06.07.1919"
+            'lifetime': "07.01.1845 - 06.07.1919",
+            'description' : ' A German Indologist, historian, university teacher, philosopher.',
+            'image' : 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Paul_Deussen_%281914%29_%28cropped%29.jpg/220px-Paul_Deussen_%281914%29_%28cropped%29.jpg',
+            'link1' : 'https://www.deutsche-biographie.de/sfz69633.html',
+            'link2' : 'https://www.oxfordreference.com/view/10.1093/oi/authority.20110803095713828'
         },
         {
             'id' : 8,
             'date' : "08.01",
             'author': 'Galileo Galilei',
             'phrase': 'I do not feel obliged to believe that the same God who has endowed us with sense, reason, and intellect has intended us to forgo their use.',
-            'lifetime': "15.02.1564 - 08.01.1642"
+            'lifetime': "15.02.1564 - 08.01.1642",
+            'description' : 'An Italian natural philosopher, astronomer,  mathematician, physicist and engineer.',
+            'image' : 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg/220px-Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg',
+            'link1' : 'https://plato.stanford.edu/entries/galileo/',
+            'link2' : 'https://www.britannica.com/biography/Galileo-Galilei',
+            'link3' : 'https://www.oxfordreference.com/view/10.1093/oi/authority.20110803095841113'
         },
         {
             'id' : 9,
             'date' : "09.01",
             'author': 'Simone de Beauvoir',
             'phrase': 'What would Prince Charming have for occupation if he had not to awaken the Sleeping beauty?',
-            'lifetime': "09.01.1908 - 14.04.1986"
+            'lifetime': "09.01.1908 - 14.04.1986",
+            'description' : 'A French writer, intellectual, existentialist philosopher, political activist, feminist, and social theorist',
+            'image' : 'https://upload.wikimedia.org/wikipedia/commons/c/c9/Simone_de_Beauvoir_photo.jpg',
+            'link1' : 'https://plato.stanford.edu/entries/beauvoir/',
+            'link2' : 'https://www.britannica.com/biography/Simone-de-Beauvoir',
+            'link3' : 'https://www.oxfordreference.com/view/10.1093/oi/authority.20110803095454499'
         },
         {
             'id' : 10,
             'date' : "10.01",
             'author': 'Michel Henry',
             'phrase': 'Suffering makes up the tissue of the existence, it is the place where the life becomes living, the reality and the phenomenological effectivity of this gradual change.',
-            'lifetime': "10.01.1922 - 03.07.2002"
+            'lifetime': "10.01.1922 - 03.07.2002",
+            'description' : 'A French philosopher, phenomenologist and novelist.',
+            'image' : 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Philosophe_Michel_Henry_%281990%29_en_325x424_pixels.jpg/220px-Philosophe_Michel_Henry_%281990%29_en_325x424_pixels.jpg',
+            'link1' : 'https://plato.stanford.edu/entries/michel-henry/',
+            'link2' : 'https://www.degruyter.com/document/doi/10.1515/opth-2020-0103/html',
+            'link3' : 'https://www.bloomsburycollections.com/book/michel-henry-the-affects-of-thought/introduction'
         },
         {
             'id' : 11,
             'date' : "11.01",
             'author': 'William James',
             'phrase': 'Whenever two people meet, there are really six people present. There is each man as he sees himself, each man as the other person sees him, and each man as he really is.',
-            'lifetime': "11.01.1842 - 26.08.1910"
+            'lifetime': "11.01.1842 - 26.08.1910",
+            'description' : 'An American philosopher, historian, and psychologist, and the first educator to offer a psychology course in the United States.',
+            'image' : 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/William_James_b1842c.jpg/220px-William_James_b1842c.jpg',
+            'link1' : 'https://plato.stanford.edu/entries/james/',
+            'link2' : 'https://www.britannica.com/biography/William-James',
+            'link3' : 'https://psychology.fas.harvard.edu/people/william-james'
         },
         {
             'id' : 12,
             'date' : "12.01",
             'author': 'Swami Vivekananda',
             'phrase': 'In a conflict between the heart and the brain, follow your heart.',
-            'lifetime': "12.01.1863 - 04.07.1902"
+            'lifetime': "12.01.1863 - 04.07.1902",
+            'description' : 'An Indian Hindu monk, writer, teacher, poet, public figure, monk and philosopher',
+            'image' : 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Swami_Vivekananda-1893-09-signed.jpg/220px-Swami_Vivekananda-1893-09-signed.jpg',
+            'link1' : 'https://www.imdb.com/name/nm3145068/bio',
+            'link2' : 'https://www.britannica.com/biography/Vivekananda',
+            'link3' : 'https://www.culturalindia.net/reformers/vivekananda.html'
         },
         {
             'id' : 13,
             'date' : "13.01",
             'author': 'George Gurdjieff',
             'phrase': 'Conscious faith is freedom. Emotional faith is slavery. Mechanical faith is foolishness.',
-            'lifetime': "13.01.1866 - 29.10.1949"
+            'lifetime': "13.01.1866 - 29.10.1949",
+            'description' : 'An influential spiritual teacher, Armenian philosopher, composer and writer',
+            'image' : 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Gurdjieff_1922.jpg/220px-Gurdjieff_1922.jpg',
+            'link1' : 'https://www.britannica.com/biography/George-Ivanovitch-Gurdjieff',
+            'link2' : 'https://ggurdjieff.com'
         },
         {
             'id' : 14,
             'date' : "14.01",
             'author': 'Albert Schweitzer',
             'phrase': "If you love something so much let it go. If it comes back it was meant to be; if it doesn't it never was.",
-            'lifetime': "14.01.1875 - 04.09.1965"
+            'lifetime': "14.01.1875 - 04.09.1965",
+            'description' : 'An Alsatian polymath: a theologian, organist, musicologist, writer, humanitarian, philosopher, and physician.',
+            'image' : 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Bundesarchiv_Bild_183-D0116-0041-019%2C_Albert_Schweitzer.jpg/220px-Bundesarchiv_Bild_183-D0116-0041-019%2C_Albert_Schweitzer.jpg',
+            'link1' : 'https://www.nobelprize.org/prizes/peace/1952/schweitzer/biographical/',
+            'link2' : 'https://www.britannica.com/biography/Albert-Schweitzer'
         },
         {
             'id' : 15,
             'date' : "15.01",
             'author': 'Rosa Luxemburg',
             'phrase': 'I feel at home in the entire world, wherever there are clouds and birds and human tears. ',
-            'lifetime': "05.03.1871 - 15.01.1919"
+            'lifetime': "05.03.1871 - 15.01.1919",
+            'description' : 'A Polish Marxist economist, anti-war activist, philosopher and revolutionary socialist.',
+            'image' : 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bundesarchiv_Bild_183-14077-006%2C_Rosa_Luxemburg.jpg/220px-Bundesarchiv_Bild_183-14077-006%2C_Rosa_Luxemburg.jpg',
+            'link1' : 'A Polish Marxist economist, anti-war activist, philosopher and revolutionary socialist',
+            'link2' : 'https://web.stanford.edu/dept/german/berlin_class/people/luxemburg.html',
+            'link3' : 'https://www.oxfordreference.com/view/10.1093/oi/authority.20110803100119676'
         },
         {
             'id' : 16,
             'date' : "16.01",
             'author': 'Vladimir Solovyov',
             'phrase': 'What is important is not that in every man are the roots of good and evil, but which of the two prevails.',
-            'lifetime': "16.01.1853 - 31.07.1900"
+            'lifetime': "16.01.1853 - 31.07.1900",
+            'description' : 'A Russian philosopher, theologian, poet, pamphleteer, and literary critic',
+            'image' : 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/V.S.Solovyov_1890s_photo_by_P.S.Zhukov.jpg/220px-V.S.Solovyov_1890s_photo_by_P.S.Zhukov.jpg',
+            'link1' : 'https://iep.utm.edu/solovyov/',
+            'link2' : 'https://www.britannica.com/biography/Vladimir-Sergeyevich-Solovyov',
+            'link3' : 'https://www.newworldencyclopedia.org/entry/Vladimir_Sergeyevich_Solovyov'
         },
         {
             'id' : 17,
             'date' : "17.01",
             'author': 'Alain Badiou',
             'phrase': 'Love without risk is an impossibility, like war without death.',
-            'lifetime': "*17.01.1937"
+            'lifetime': "*17.01.1937",
+            'description' : 'French writer and philosopher',
+            'image' : 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Alain_Badiou-2.jpg/250px-Alain_Badiou-2.jpg',
+            'link1' : 'https://www.theguardian.com/culture/2012/may/18/alain-badiou-life-in-writing',
+            'link2' : 'https://www.britannica.com/biography/Alain-Badiou',
+            'link3' : 'https://philosophynow.org/issues/109/In_Defense_of_Alain_Badiou'
         },
         {
             'id' : 18,
             'date' : "18.01",
             'author': 'Montesquieu (Charles-Louis de Secondat, Baron de La Brède et de Montesquieu)',
             'phrase': 'I have always observed that to succeed in the world one should appear like a fool but be wise.',
-            'lifetime': "18.01.1689 - 10.02.1755"
+            'lifetime': "18.01.1689 - 10.02.1755",
+            'description' : 'A French judge, man of letters, historian, and political philosopher',
+            'image' : 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Charles_Montesquieu.jpg/220px-Charles_Montesquieu.jpg',
+            'link1' : 'https://www.britannica.com/biography/Montesquieu',
+            'link2' : 'https://plato.stanford.edu/entries/montesquieu/',
+            'link3' : 'https://whoswho.de/bio/charles-de-secondat-baron-de-montesquieu.html'
         },
         {
             'id' : 19,
             'date' : "19.01",
             'author': 'Auguste Comte',
             'phrase': 'Know yourself to improve yourself',
-            'lifetime': "19.01.1798 - 05.09.1857"
+            'lifetime': "19.01.1798 - 05.09.1857",
+            'description' : 'A French philosopher and writer who formulated the doctrine of positivism',
+            'image' : 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Auguste_Comte.jpg/220px-Auguste_Comte.jpg',
+            'link1' : 'https://plato.stanford.edu/entries/comte/',
+            'link2' : 'https://www.britannica.com/biography/Auguste-Comte',
+            'link3' : 'https://www.biography.com/scholar/auguste-comte'
         },
         {
             'id' : 20,
             'date' : "20.01",
             'author': 'John Hick',
             'phrase': 'All of the great world faiths do believe that this life that we´re now living is only a small part of our total existence.',
-            'lifetime': "20.01.1922 - 09.02.2012"
+            'lifetime': "20.01.1922 - 09.02.2012",
+            'description' : 'A German psychologist and phenomenologist who contributed to the creation of Gestalt psychology',
+            'image' : 'https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/John_Hick_philosopher.png/220px-John_Hick_philosopher.png',
+            'link1' : 'https://www.famousphilosophers.org/john-hick/',
+            'link2' : 'https://iep.utm.edu/hick/',
+            'link3' : 'https://searchworks.stanford.edu/view/5409205'
         },
         {
             'id' : 21,
             'date' : "21.01",
             'author': 'Wolfgang Köhler',
             'phrase': 'It would be interesting to inquire how many times essential advances in science have first been made possible by the fact that the boundaries of special disciplines were not respected... Trespassing is one of the most successful techniques in science.',
-            'lifetime': "21.01.1887 - 11.06.1967"
+            'lifetime': "21.01.1887 - 11.06.1967",
+            'description' : 'A German psychologist and phenomenologist who contributed to the creation of Gestalt psychology',
+            'image' : '',
+            'link1' : '',
+            'link2' : '',
+            'link3' : ''
         },
         {
             'id' : 22,
             'date' : "22.01",
             'author': 'Francis Bacon',
             'phrase': 'It is impossible to love and be wise.',
-            'lifetime': "22.01.1561 - 09.04.1626"
+            'lifetime': "22.01.1561 - 09.04.1626",
+            'description' : 'An English philosopher and statesman',
+            'image' : '',
+            'link1' : '',
+            'link2' : '',
+            'link3' : ''
         },
         {
             'id' : 23,
             'date' : "23.01",
             'author': 'Giambattista Vico',
             'phrase': 'Because of the indefinite nature of the human mind, wherever it is lost in ignorance man makes himself the measure of all things.',
-            'lifetime': "23.06.1668 - 23.01.1744"
+            'lifetime': "23.06.1668 - 23.01.1744",
+            'description' : 'An Italian philosopher, rhetorician, historian, and jurist during the Italian Enlightenment',
+            'image' : '',
+            'link1' : '',
+            'link2' : '',
+            'link3' : ''
         },
         {
             'id' : 24,
             'date' : "24.01",
             'author': 'Yamazaki Ansai',
             'phrase': 'In Japan at the time of the opening of the country, (the gods) Izanagi and Izanami followed the divination techniques of the Heavenly God, obeyed yin and yang, and thus correctly established the beginnings of ethical teachings. In the universe there is only One Principle, (although) either Gods or Sages come forth depending on whether it concerns the country where the sun rises or the country where the sun sets. The (two) Ways (of Shinto and Confucianism) are, however, naturally and mysteriously the same.',
-            'lifetime': "24.01.1619 - 16.09.1682"
+            'lifetime': "24.01.1619 - 16.09.1682",
+            'description' : 'A Japanese philosopher and scholar',
+            'image' : '',
+            'link1' : '',
+            'link2' : '',
+            'link3' : ''
         },
         {
             'id' : 25,
             'date' : "25.01",
             'author': 'Friedrich Heinrich Jacobi',
             'phrase': 'It is not truth, justice, liberty, that men seek; they seek only themselves. - And oh, that they knew how to seek themselves aright!',
-            'lifetime': "25.01.1743 - 10.03.1819"
+            'lifetime': "25.01.1743 - 10.03.1819",
+            'description' : 'An influential German philosopher, literary figure, and socialite.',
+            'image' : '',
+            'link1' : '',
+            'link2' : '',
+            'link3' : ''
         },
         {
             'id' : 26,
             'date' : "26.01",
             'author': 'Milič Čapek',
             'phrase': 'There can hardly be a sharper contrast than that between the everlasting atoms of classical physics and the vanishing "particles" of modern physics.',
-            'lifetime': "26.01.1909 - 20.08.1854"
+            'lifetime': "26.01.1909 - 20.08.1854",
+            'description' : 'A Czech–American philosopher',
+            'image' : '',
+            'link1' : '',
+            'link2' : '',
+            'link3' : ''
         },
         {
             'id' : 27,
             'date' : "27.01",
             'author': 'Friedrich Wilhelm Joseph Schelling',
             'phrase': 'To achieve great things we must be self-confined...mastery is revealed in limitation.',
-            'lifetime': "27.01.1775 - 20.08.1854"
+            'lifetime': "27.01.1775 - 20.08.1854",
+            'description' : 'A German philosopher, an absolute idealist',
+            'image' : '',
+            'link1' : '',
+            'link2' : '',
+            'link3' : ''
         },
         {
             'id' : 28,
             'date' : "28.01",
             'author': 'Daniel Sulmasy',
             'phrase': "Money can't buy spirituality-and money can't make it go away.",
-            'lifetime': "*28.01.1956"
+            'lifetime': "*28.01.1956",
+            'description' : 'An American philosopher and medical ethicist.',
+            'image' : '',
+            'link1' : '',
+            'link2' : '',
+            'link3' : ''
         },
         {
             'id' : 29,
             'date' : "29.01",
             'author': 'Emanuel Swedenborg',
             'phrase': 'The inner self is as distinct from the outer self as heaven is from earth.',
-            'lifetime': "29.01.1688 - 29.03.1772"
+            'lifetime': "29.01.1688 - 29.03.1772",
+            'description' : 'A Swedish pluralistic-Christian theologian, scientist, philosopher and mystic.',
+            'image' : '',
+            'link1' : '',
+            'link2' : '',
+            'link3' : ''
         },
         {
             'id' : 30,
             'date' : "30.01",
             'author': 'Mahatma Gandhi',
             'phrase': 'Live as if you were to die tomorrow. Learn as if you were to live forever.',
-            'lifetime': "02.10.1869 - 30.01.1948"
+            'lifetime': "02.10.1869 - 30.01.1948",
+            'description' : 'An Indian lawyer, anti-colonial nationalist and political ethicist.',
+            'image' : '',
+            'link1' : '',
+            'link2' : '',
+            'link3' : ''
         },
         {
             'id' : 31,
             'date' : "31.01",
             'author': 'Arnold Geulincx / also known by pseudonym Philaretus',
-            'phrase': 'Ubi nihil vales, ibi nihil velis: where you are worth nothing, there you should want nothing.',
-            'lifetime': "31.01.1624 - Nov.1669"
+            'phrase': 'Ubi nihil vales, ibi nihil velis: Where you are worth nothing, there you should want nothing.',
+            'lifetime': "31.01.1624 - Nov.1669",
+            'description' : 'A Belgian philosopher, metaphysician, and logician.',
+            'image' : 'https://upload.wikimedia.org/wikipedia/commons/8/85/Arnold_Geulincx.gif',
+            'link1' : 'https://www.britannica.com/biography/Arnold-Geulincx',
+            'link2' : 'https://iep.utm.edu/geulincx/',
+            'link3' : 'https://www.newworldencyclopedia.org/entry/Arnold_Geulincx'
         }
     ]

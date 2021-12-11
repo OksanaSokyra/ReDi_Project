@@ -10,13 +10,16 @@ def index():
     home = {'page': 'Welcome to January with Philosophy'}
     return render_template('index.html', title='Home', home=home, quotes=quotes)
 
+@app.route('/wholejanuary')
+def get_all_quotes():
+    return render_template('januaryoverview.html', title='January Overview', quotes=quotes)
+
 def _find_next_id():
     return max(quote["id"] for quote in quotes) + 1
 
 @app.route("/quotes", methods=["GET"])
 def get_quotes():
     return jsonify(quotes)
-
 
 @app.route("/quotes/<id>", methods=["GET"])
 def get_quote_by_id(id):
