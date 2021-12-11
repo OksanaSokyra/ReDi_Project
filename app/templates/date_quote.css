@@ -1,0 +1,38 @@
+body { 
+    background-image:url(https://cssh.northeastern.edu/philosophy/wp-content/uploads/sites/11/2020/03/philosophy.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1 {
+font-family: cursive;
+font-size:x-large;
+color:dodgerblue;
+text-align: center;
+}
+
+h2 {
+font-family: 'Courier New', Courier, monospace;
+font-weight: 200;
+font-size: larger;
+color:dodgerblue;
+text-align: center;
+}
+
+h3 {font-family: cursive;
+font-size:medium;
+font-style: italic;
+color: darkgrey;
+text-align: left;
+}
+
+h4 {
+object-position: unset;
+text-align:left; 
+font-family: cursive;
+font-size:smaller;
+font-style: italic;
+color:beige;
+
+}

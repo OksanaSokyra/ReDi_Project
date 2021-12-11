@@ -10,12 +10,12 @@
     }
     </style>
     {% for quote in quotes %}
-<h1 style="font-family: monospace;font-size: x-large;color: aqua; text-align: center;"> Inspiration through Philosophy: {{ quote.id }} January </h1>
+<h1 style="font-family: monospace;font-size: x-large;color: aqua;"> Inspiration through Philosophy: {{ quote.id }}. January </h1>
 <hr>
   <img src= {{ quote.image }} >
-  <h3 style="font-family: monospace; font-size: medium; font-size: x-large; color:maroon;"> {{ quote.author }}
+  <h3 style="font-family: monospace; font-size: x-large; color:maroon;"> {{ quote.author }}
   <br> {{ quote.lifetime }}</h3>
-   <h4 style="font-family: monospace; font-size: medium; font-size: small; color:maroon;">{{ quote.description }}</h4>
+   <h4 style="font-family: monospace; font-size: medium; color:maroon;">{{ quote.description }}</h4>
    <hr>
 {% endfor %}
 {% endblock %}

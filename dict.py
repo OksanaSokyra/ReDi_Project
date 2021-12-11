@@ -231,7 +231,7 @@ quotes = [
             'author': 'John Hick',
             'phrase': 'All of the great world faiths do believe that this life that we´re now living is only a small part of our total existence.',
             'lifetime': "20.01.1922 - 09.02.2012",
-            'description' : 'A German psychologist and phenomenologist who contributed to the creation of Gestalt psychology',
+            'description' : 'English philosopher of religion and theologian',
             'image' : 'https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/John_Hick_philosopher.png/220px-John_Hick_philosopher.png',
             'link1' : 'https://www.famousphilosophers.org/john-hick/',
             'link2' : 'https://iep.utm.edu/hick/',
@@ -244,10 +244,10 @@ quotes = [
             'phrase': 'It would be interesting to inquire how many times essential advances in science have first been made possible by the fact that the boundaries of special disciplines were not respected... Trespassing is one of the most successful techniques in science.',
             'lifetime': "21.01.1887 - 11.06.1967",
             'description' : 'A German psychologist and phenomenologist who contributed to the creation of Gestalt psychology',
-            'image' : '',
-            'link1' : '',
-            'link2' : '',
-            'link3' : ''
+            'image' : 'https://www.nap.edu/openbook/0309084768/xhtml/images/p20005c54g186001.jpg',
+            'link1' : 'https://www.britannica.com/biography/Wolfgang-Kohler',
+            'link2' : 'https://www.encyclopedia.com/people/medicine/psychology-and-psychiatry-biographies/wolfgang-koehler',
+            'link3' : 'https://www.oxfordreference.com/view/10.1093/oi/authority.20110803100041545'
         },
         {
             'id' : 22,
@@ -256,10 +256,10 @@ quotes = [
             'phrase': 'It is impossible to love and be wise.',
             'lifetime': "22.01.1561 - 09.04.1626",
             'description' : 'An English philosopher and statesman',
-            'image' : '',
-            'link1' : '',
-            'link2' : '',
-            'link3' : ''
+            'image' : 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Somer_Francis_Bacon.jpg/220px-Somer_Francis_Bacon.jpg',
+            'link1' : 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Somer_Francis_Bacon.jpg/220px-Somer_Francis_Bacon.jpg',
+            'link2' : 'https://plato.stanford.edu/entries/francis-bacon/',
+            'link3' : 'https://www.biography.com/scholar/francis-bacon'
         },
         {
             'id' : 23,
@@ -268,22 +268,22 @@ quotes = [
             'phrase': 'Because of the indefinite nature of the human mind, wherever it is lost in ignorance man makes himself the measure of all things.',
             'lifetime': "23.06.1668 - 23.01.1744",
             'description' : 'An Italian philosopher, rhetorician, historian, and jurist during the Italian Enlightenment',
-            'image' : '',
-            'link1' : '',
-            'link2' : '',
-            'link3' : ''
+            'image' : 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/GiambattistaVico.jpg/220px-GiambattistaVico.jpg',
+            'link1' : 'https://plato.stanford.edu/entries/vico/',
+            'link2' : 'https://www.britannica.com/biography/Giambattista-Vico',
+            'link3' : 'https://www.newworldencyclopedia.org/entry/Giambattista_Vico'
         },
         {
             'id' : 24,
             'date' : "24.01",
-            'author': 'Yamazaki Ansai',
-            'phrase': 'In Japan at the time of the opening of the country, (the gods) Izanagi and Izanami followed the divination techniques of the Heavenly God, obeyed yin and yang, and thus correctly established the beginnings of ethical teachings. In the universe there is only One Principle, (although) either Gods or Sages come forth depending on whether it concerns the country where the sun rises or the country where the sun sets. The (two) Ways (of Shinto and Confucianism) are, however, naturally and mysteriously the same.',
-            'lifetime': "24.01.1619 - 16.09.1682",
-            'description' : 'A Japanese philosopher and scholar',
-            'image' : '',
-            'link1' : '',
-            'link2' : '',
-            'link3' : ''
+            'author': 'Christian Wolff',
+            'phrase': 'Transparency and compliance with the law are factors of further development',
+            'lifetime': "24.01.1679 - 09.04.1754",
+            'description' : 'German philosopher, mathematician, jurist, university teacher, philosopher',
+            'image' : 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Christian_Wolff.jpg/220px-Christian_Wolff.jpg',
+            'link1' : 'https://plato.stanford.edu/entries/wolff-christian/',
+            'link2' : 'https://www.britannica.com/biography/Christian-baron-von-Wolff',
+            'link3' : 'https://www.rep.routledge.com/articles/biographical/wolff-christian-1679-1754/v-1'
         },
         {
             'id' : 25,
@@ -292,10 +292,10 @@ quotes = [
             'phrase': 'It is not truth, justice, liberty, that men seek; they seek only themselves. - And oh, that they knew how to seek themselves aright!',
             'lifetime': "25.01.1743 - 10.03.1819",
             'description' : 'An influential German philosopher, literary figure, and socialite.',
-            'image' : '',
-            'link1' : '',
-            'link2' : '',
-            'link3' : ''
+            'image' : 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Friedrich_Heinrich_Jacobi_portrait.jpg/220px-Friedrich_Heinrich_Jacobi_portrait.jpg',
+            'link1' : 'https://plato.stanford.edu/entries/friedrich-jacobi/',
+            'link2' : 'https://www.britannica.com/biography/Friedrich-Heinrich-Jacobi',
+            'link3' : 'https://www.oxfordreference.com/view/10.1093/oi/authority.20110803100015793'
         },
         {
             'id' : 26,
@@ -304,10 +304,8 @@ quotes = [
             'phrase': 'There can hardly be a sharper contrast than that between the everlasting atoms of classical physics and the vanishing "particles" of modern physics.',
             'lifetime': "26.01.1909 - 20.08.1854",
             'description' : 'A Czech–American philosopher',
-            'image' : '',
-            'link1' : '',
-            'link2' : '',
-            'link3' : ''
+            'image' : 'data:image/jpeg;base64,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',
+            'link1' : 'https://philpapers.org/rec/CAPTVO'
         },
         {
             'id' : 27,
@@ -316,10 +314,10 @@ quotes = [
             'phrase': 'To achieve great things we must be self-confined...mastery is revealed in limitation.',
             'lifetime': "27.01.1775 - 20.08.1854",
             'description' : 'A German philosopher, an absolute idealist',
-            'image' : '',
-            'link1' : '',
-            'link2' : '',
-            'link3' : ''
+            'image' : 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Nb_pinacoteca_stieler_friedrich_wilhelm_joseph_von_schelling.jpg/220px-Nb_pinacoteca_stieler_friedrich_wilhelm_joseph_von_schelling.jpg',
+            'link1' : 'https://plato.stanford.edu/entries/schelling/',
+            'link2' : 'https://www.britannica.com/biography/Friedrich-Wilhelm-Joseph-von-Schelling',
+            'link3' : 'https://www.rep.routledge.com/articles/biographical/schelling-friedrich-wilhelm-joseph-von-1775-1854/v-1'
         },
         {
             'id' : 28,
@@ -328,10 +326,10 @@ quotes = [
             'phrase': "Money can't buy spirituality-and money can't make it go away.",
             'lifetime': "*28.01.1956",
             'description' : 'An American philosopher and medical ethicist.',
-            'image' : '',
-            'link1' : '',
-            'link2' : '',
-            'link3' : ''
+            'image' : 'data:image/jpeg;base64,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',
+            'link1' : 'https://kennedyinstitute.georgetown.edu/people/daniel-sulmasy/',
+            'link2' : 'https://cbhd.org/content/daniel-p-sulmasy-md-phd',
+            'link3' : 'https://www.linkedin.com/in/daniel-sulmasy-04054a131/'
         },
         {
             'id' : 29,
@@ -340,10 +338,10 @@ quotes = [
             'phrase': 'The inner self is as distinct from the outer self as heaven is from earth.',
             'lifetime': "29.01.1688 - 29.03.1772",
             'description' : 'A Swedish pluralistic-Christian theologian, scientist, philosopher and mystic.',
-            'image' : '',
-            'link1' : '',
-            'link2' : '',
-            'link3' : ''
+            'image' : 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Emanuel_Swedenborg.PNG/220px-Emanuel_Swedenborg.PNG',
+            'link1' : 'https://www.britannica.com/biography/Emanuel-Swedenborg',
+            'link2' : 'https://www.encyclopedia.com/people/philosophy-and-religion/protestant-christianity-biographies/emanuel-swedenborg',
+            'link3' : 'https://biography.yourdictionary.com/emanuel-swedenborg'
         },
         {
             'id' : 30,
@@ -352,10 +350,10 @@ quotes = [
             'phrase': 'Live as if you were to die tomorrow. Learn as if you were to live forever.',
             'lifetime': "02.10.1869 - 30.01.1948",
             'description' : 'An Indian lawyer, anti-colonial nationalist and political ethicist.',
-            'image' : '',
-            'link1' : '',
-            'link2' : '',
-            'link3' : ''
+            'image' : 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Mahatma-Gandhi%2C_studio%2C_1931.jpg/220px-Mahatma-Gandhi%2C_studio%2C_1931.jpg',
+            'link1' : 'https://www.britannica.com/biography/Mahatma-Gandhi',
+            'link2' : 'https://www.biography.com/activist/mahatma-gandhi',
+            'link3' : 'https://gandhi.gov.in'
         },
         {
             'id' : 31,
