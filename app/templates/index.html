@@ -1,6 +1,9 @@
+<!---this html is based on base.html, thats why following commands-->
 {% extends "base.html" %}
 
 {% block content %}
+
+<!---styling in css failed: VSC doesn't read the file "main.css" created in separat folder /static/css. That's why : styling direct in html's-->
 <style>
         body {
           background-image: url('https://cssh.northeastern.edu/philosophy/wp-content/uploads/sites/11/2020/03/philosophy.jpg');
@@ -10,10 +13,9 @@
         }
         </style>
 
-        
     <h1 style="font-family: monospace;font-size: x-large;color: aqua;"> Inspiration through Philosophy: January </h1>
     
-       <h2 style="font-family: monospace; font-size: medium; font-size: x-large; color: cyan;"> Right words for every day {{ date }}</h2>
+       <h2 style="font-family: monospace; font-size: medium; font-size: x-large; color: cyan;"> Right words for every day</h2>
     
        <h3 style="font-family: monospace, Courier; color:white; font-size:large;"> 
            Sometimes we all need a small piece of inspiration. 
@@ -30,10 +32,9 @@
     
        </h3>
        <br><br><br><br>
-    <h4 style="color: beige;">Here are some usefull link´s if you need more information <br> about what philosophy is:
+    <h4 style="color: beige;">Here are some useful link´s if you need more information <br> about what philosophy is:
        <br><a href="https://philosophy.fsu.edu/undergraduate-study/why-philosophy/What-is-Philosophy"> What is philosophy? by FLORIDA STATE UNIVERSITY</a> 
        <br> <a href="https://www.philosophy-foundation.org/what-is-philosophy">What is philosophy? by THE PHILOSOPHY FOUNDATION </a>
        <br> <a href="https://www.worldhistory.org/philosophy/">Philosophy in the World History Encyclopedia </a>
     </h4>
-
     {% endblock %}

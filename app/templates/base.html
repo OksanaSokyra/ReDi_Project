@@ -1,14 +1,14 @@
 <!doctype html>
 <html>
     <head>
-        {% if title %}
-        <title style="color: darkcyan; font-family: sans-serif;font-size: xx-large;">{{ title }} - January with Philosophy</title>
-        {% else %}
-        <title style="color: darkcyan; font-family: sans-serif;font-size: xx-large;">Welcome to January with Philosophy</title>
-        {% endif %}
+        <title>January Inspiration</title>
     </head>
     <body>
+
+        <!---creating menu bar : Home / Overview / dates-->
         <div style="cursor: alias; color: darkturquoise;">January with Philosophy: <a href="/index">Home</a></div>
+        <hr>
+        <div style="cursor: alias; color: darkturquoise;">January with Philosophy: <a href="/overview">January overview</a></div>
         <hr>
         <div><a href="/date/1">01.Jan. </a>
         <a href="/date/2">02.Jan.</a>
@@ -42,9 +42,8 @@
         <a href="/date/30">30.Jan.</a>
         <a href="/date/31">31.Jan.</a>
             <hr>
-        <div style="cursor: alias; color: darkturquoise;">January with Philosophy: <a href="/wholejanuary">January Overview</a></div>
-            <hr>
 
+            <!---this html file is the base for others: that's why following commands:-->
         {% block content %}{% endblock %}
     </body>
 </html>

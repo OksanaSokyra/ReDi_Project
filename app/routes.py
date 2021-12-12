@@ -1,46 +1,38 @@
-#importing flask, dictionary etc.
-
+# importing modules
 from flask import Flask, request, jsonify, render_template
-app = Flask(__name__)
-from app import app
-from dict import quotes
 
+# declaring app name
+app = Flask(__name__)
+
+#connecting to app.py
+from app import app
+
+#importing dictionary
+from dict import quotes
 
 #creating routes
 @app.route('/')
-@app.route('/index')
+@app.route('/index') #homepage
 def index():
     home = {'page': 'Welcome to January with Philosophy'}
     return render_template('index.html', title='Home', home=home, quotes=quotes)
 
-@app.route('/wholejanuary')
+@app.route('/overview') #January overview
 def get_all_quotes():
     return render_template('januaryoverview.html', title='January Overview', quotes=quotes)
 
-def _find_next_id():
-    return max(quote["id"] for quote in quotes) + 1
-
-@app.route("/quotes", methods=["GET"])
+@app.route("/quotes", methods=["GET"]) #whole jsonify list 
 def get_quotes():
     return jsonify(quotes)
 
-@app.route("/quotes/<id>", methods=["GET"])
+@app.route("/quotes/<id>")  #jsonify view for single quote
 def get_quote_by_id(id):
     for quote in quotes:
         if quote["id"] == int(id):
             return jsonify(quote)
     return jsonify()
 
-@app.route("/quotes", methods=["POST"])
-def add_quote():
-    if request.is_json:
-        quote = request.get_json()
-        quote["id"] = _find_next_id()
-        quotes.append(quote)
-        return quote, 201
-    return {"error": "Request must be JSON"}, 415
-
-@app.route('/date/<day>')
+@app.route('/date/<day>') #connecting every date to html's files in templates
 def dateInJanuary(day):
-    page = {'page': day + '.January'} # todo add padding zero
+    page = {'page': day + '.January'} 
     return render_template(day + '.html', title=page, page=page)
